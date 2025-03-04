@@ -7,3 +7,4 @@ while n//(10**potencia) != 0:
     soma += algarismo
     potencia+=1
 print(f'{soma}')
+print('FIM')
